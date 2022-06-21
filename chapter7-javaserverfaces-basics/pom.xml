@@ -11,7 +11,7 @@
 		<jsf.api>2.1.7</jsf.api>
 		<jsf.impl>2.1.7</jsf.impl>
 		<log4j.version>1.2.17</log4j.version>
-		<mysql.version>5.1.48</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 	</properties>
 
 	<dependencies>
